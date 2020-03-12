@@ -1,0 +1,14 @@
+{
+    "name": "net.timrobin.unity",
+    "references": [
+        "GUID:0519dba49ad584b2e92a00f1e862d122"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
